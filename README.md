@@ -92,16 +92,3 @@ Made with ❤️ by the **Ami AI Project Team**.
 
 
 
-# Saving as a README.md file
-
-file_path = "/mnt/data/README_Ami_Core_AI_Updated.md"
-
-with open(file_path, "w") as file:
-
-    file.write(readme_content)
-
-
-
-# Providing the file link for download
-
-file_path
